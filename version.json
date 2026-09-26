@@ -1,0 +1,19 @@
+{
+  "_readme": "Mẫu của file báo bản mới. Đăng file này lên trang hỗ trợ (repo littlecatdev/daily-logger) đúng địa chỉ AppConfig.updateManifestUrl, rồi mỗi lần phát hành thì sửa 'latest'. Muốn ép mọi máy cũ phải cập nhật thì nâng 'minimum' lên; để nguyên bản thấp nhất thì chỉ nhắc nhẹ, người dùng bấm 'Để sau' được.",
+  "ios": {
+    "latest": "1.0.1",
+    "minimum": "1.0.0",
+    "url": "https://apps.apple.com/app/id6813756101"
+  },
+  "android": {
+    "latest": "1.0.0",
+    "minimum": "1.0.0",
+    "url": "https://play.google.com/store/apps/details?id=com.littlecat.dailylogger"
+  },
+  "notes": {
+    "en": "A smoother, more comfortable experience.",
+    "vi": "Tăng trải nghiệm người dùng.",
+    "ko": "사용하기 더 편하도록 다듬었어요.",
+    "zh": "优化了使用体验。"
+  }
+}
